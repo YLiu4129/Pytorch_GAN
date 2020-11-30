@@ -1,4 +1,6 @@
 # DCGAN implementation using Pytorch
+##
+Dataset:I used animeFace dataset:https://github.com/bchao1/Anime-Face-Dataset <br>
 
 ## prerequisite
 Check the requirments.txt in the file and <br>
